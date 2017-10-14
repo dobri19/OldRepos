@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task01Chef", "Task01Chef\Task01Chef.csproj", "{7D46412E-1EF3-4A02-8285-B76AEBA7B0EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task02RefactorStatements", "Task02RefactorStatements\Task02RefactorStatements.csproj", "{F1B29971-F91D-4690-99C0-CA819D58E13B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task03RefactorLoop", "Task03RefactorLoop\Task03RefactorLoop.csproj", "{F6259C29-D70E-4BBA-BA1D-A57F83E3AE59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D46412E-1EF3-4A02-8285-B76AEBA7B0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D46412E-1EF3-4A02-8285-B76AEBA7B0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D46412E-1EF3-4A02-8285-B76AEBA7B0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D46412E-1EF3-4A02-8285-B76AEBA7B0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B29971-F91D-4690-99C0-CA819D58E13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B29971-F91D-4690-99C0-CA819D58E13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B29971-F91D-4690-99C0-CA819D58E13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B29971-F91D-4690-99C0-CA819D58E13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6259C29-D70E-4BBA-BA1D-A57F83E3AE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6259C29-D70E-4BBA-BA1D-A57F83E3AE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6259C29-D70E-4BBA-BA1D-A57F83E3AE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6259C29-D70E-4BBA-BA1D-A57F83E3AE59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
