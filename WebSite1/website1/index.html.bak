@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Index</title>
+	<link rel="stylesheet" href="styles/reset.css" />
+	<link rel="stylesheet" href="styles/style.css" />
+	<script src="scripts/timer-script.js">
+	</script>
+</head>
+<body onload="startTimer()">  
+	<div id="wrapper">
+		<header id="header">
+
+			<div class="star"></div>
+			<div class="meteors">
+				<div class="meteor"></div>
+			</div>
+
+			<h1 id="site-logo">Dobri19</h1>
+			<div id="timer">
+			</div>
+		
+			<h2 id="site-logo2">Website under construction</h2>
+
+			<div class="box1">
+				<img src="img/star1.png" width="100" height="100" alt="star">
+			</div>
+			<div class="box2">
+				<img src="img/star2.png" width="100" height="100" alt="star">
+			</div>
+
+			<div class="box3">
+				<img src="img/star3.png" width="80" height="80" alt="star">
+			</div>
+
+			<div class="box4">
+				<img src="img/star4.png" width="80" height="80" alt="star">
+			</div>
+
+			<div class="box5">
+				<div class="popup" onclick="myFunction()" id="earth">Earth
+					<span class="popuptext" id="myPopup">
+						<img src="img/earth.jpg" width="600" height="338" alt="star">
+					</span>
+				</div>
+				<img src="img/earth.png" width="30" height="30" alt="star">
+			</div>
+
+			<div class="box6">
+				<div class="popup2" onclick="myFunction2()" id="tikitaka">Tic Tac
+					<span class="popuptext2" id="myPopup2">
+						<img src="TikiTest\tikigame.jpg" width="340" height="340" alt="star">
+						<a href="TikiTest\TicTacToe01.zip">
+							<img id="button" src="TikiTest\down.png" width="110" height="35">
+						</a>
+					</span>
+				</div>
+				<img src="TikiTest/power-icon.png" width="30" height="30" alt="star">
+			</div>
+
+
+		</header>
+
+		<footer>
+			<div id="line">
+				<p id="finally">The universe is wider than our views of it.     &copy <time>29 January 2017</time>
+                    | <a href="https://www.nasa.gov/">NASA</a>
+                    | <a href="https://home.cern/">CERN</a>
+                </p>
+			</div>
+		</footer>
+	</div>
+</body>
+</html>
